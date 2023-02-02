@@ -10,6 +10,5 @@ I'm a game developer from Tacoma, Washington. I've had a passion for gaming almo
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[sapphirechuu@gmail.com](mailto:sapphirechuu@gmail.com)
+### Itch.io
+https://sapphire-chuu.itch.io/
